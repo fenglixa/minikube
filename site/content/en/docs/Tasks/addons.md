@@ -23,6 +23,7 @@ minikube has a set of built-in addons that, when enabled, can be used within Kub
 * [storage-provisioner-gluster](../../../storage-provisioner-gluster/readme)
 * [helm-tiller](../../../helm-tiller/readme)
 * [ingress-dns](../../../ingress-dns/readme)
+* [istio](https://github.com/kubernetes/minikube/tree/master/deploy/addons/istio)
 
 ## Listing available addons
 
